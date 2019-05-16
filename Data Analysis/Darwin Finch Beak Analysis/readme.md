@@ -1,0 +1,1 @@
+Analysis on the beaks of Scandens and fortis. A case study taken from the last chapter of the DataCamp course "Statistical Thinking in Python part2" https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
